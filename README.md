@@ -37,3 +37,12 @@
 *   Utilizar a função arange do numpy
 
 Obs: Para a atividade direto do vsCode, algumas bibliotecas informadas no curso foram descontinuadas, recomendo fazer downgrade para a versão 3.9.0 do python
+
+
+======================================================================
+
+04 - Support Vector Machine e a não linearidade
+
+*   Utilizar o módulo Support Vector Machine;
+*   Gerar valores randômicos com o módulo SVC;
+*   Utilizar o módulo Standard Scale.
